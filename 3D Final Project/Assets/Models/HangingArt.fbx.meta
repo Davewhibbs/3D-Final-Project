@@ -46,7 +46,51 @@ ModelImporter:
     animationScaleError: .5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Art_Controller
+        weight: 1
+      - path: Art_Controller/Outer_Controller
+        weight: 1
+      - path: Art_Controller/Outer_Controller/Middle_Controller
+        weight: 1
+      - path: Art_Controller/Outer_Controller/Middle_Controller/Inner_Controller
+        weight: 1
+      - path: Hanging_Art
+        weight: 1
+      - path: Inner_Handle
+        weight: 1
+      - path: Middle_Handle
+        weight: 1
+      - path: Outer_Handle
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
     isReadable: 1
   meshes:
     lODScreenPercentages: []
